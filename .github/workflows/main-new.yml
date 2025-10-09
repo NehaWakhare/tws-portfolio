@@ -1,4 +1,4 @@
-name: website Deployment
+name: trainwithshubham-website 
 
 on:
   push:
